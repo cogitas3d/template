@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Cicero Moraes
+* Everton da Rosa
 
 
